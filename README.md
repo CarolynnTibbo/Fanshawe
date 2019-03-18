@@ -13,6 +13,7 @@ fieldset {
   padding: 0;
 }
 ```
+Week 3 - Github Desktop and Advanced Selectors.
 
 ### Prerequisites
 
