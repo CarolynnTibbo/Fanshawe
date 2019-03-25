@@ -16,6 +16,22 @@
 	color: yellow;
 }
 
+	body > h2{
+	color :purple;}
+	
+	body > h1{
+	color : yellow;}
+
+	fieldset + p {
+	color : red;}
+	
+	div ~ p {
+ 	background-color: yellow;
+	} 
+
+
+
+
 @media only screen 
   	and (min-device-width: 320px) 
   	and (max-device-width: 480px) {
